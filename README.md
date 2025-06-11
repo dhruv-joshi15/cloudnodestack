@@ -73,9 +73,9 @@ Structured logging from the app in JSON format
 
 
 
-Architecture Diagram
+##Architecture Diagram
 
-
+```
 +----------------------------+
 |        Public Subnet       |
 |                            |
